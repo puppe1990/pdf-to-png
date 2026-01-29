@@ -1,0 +1,5 @@
+{
+  "name": "PDF to PNG Zip Converter",
+  "description": "A powerful and elegant tool to convert every page of your PDF documents into high-quality PNG images, bundled into a single ZIP file for easy download.",
+  "requestFramePermissions": []
+}
